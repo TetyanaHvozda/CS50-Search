@@ -1,0 +1,81 @@
+#search {
+  margin-top: 40px;
+}
+
+.buttons {
+  margin-top: 15px;
+  margin-left: 110px;
+}
+
+#input {
+  width: 500px;
+  border-radius: 30px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  text-indent:30px;
+}
+
+.input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+
+.btn {
+  background-color: #F6F6F6;
+  text-align: center;
+}
+
+#google-icon {
+  height: 150px;
+  margin-top: 140px;
+}
+
+#advancedicon {
+  height: 40px;
+  width: 120px;
+}
+
+#link-back {
+  margin-left: 900px;
+}
+
+#search-title {
+  margin-top: 20px;
+  margin-left: 40px;
+  font-size: 25px;
+  color: red;
+}
+
+#advanced-search {
+  margin-left: 45px;
+  margin-top: 30px;
+}
+
+#find-pages {
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.text-field {
+  margin-left: 40px;
+  width: 800px;
+}
+
+#submit {
+  margin-top: 20px;
+  margin-left: 800px;
+  color: white;
+  background-color: blue;
+}
